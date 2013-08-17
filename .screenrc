@@ -1,0 +1,8 @@
+# prefix key
+escape ^Tt
+
+# hardstatus and caption
+hardstatus on
+hardstatus alwayslastline '%{= .k}%H%{-} %L=%-w%45L>%{=u G.}%n %t%{-}%+w %-17<%=%m/%d %02c:%s'
+caption always '%?%F%{= bw}%:%{= wk}%?%2n%f%07=%t%='
+sorendition '+rb .G'
