@@ -1,5 +1,5 @@
 # brewでインストールしたパッケージが優先されるように
-export PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+export PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin
 
 # rbenvの設定
 export PATH="$HOME/.rbenv/bin:$PATH"
