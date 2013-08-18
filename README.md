@@ -1,6 +1,10 @@
 dotfiles
 ========
 
+homebrewでnginxなどを入れるときのために/usr/local/sbin作成
+
+    $ mkdir /usr/local/sbin
+
 zshの導入(Mac with homebrew)
 
     $ brew install --disable-etcdir zsh
