@@ -1,6 +1,8 @@
 dotfiles
 ========
 
+元からあったdotfilesはoriginalsに入れておく
+
 homebrewでnginxなどを入れるときのために/usr/local/sbin作成
 
     $ mkdir /usr/local/sbin
