@@ -9,6 +9,10 @@ if [ -f ~/.bash_aliases ]; then
 . ~/.bash_aliases
 fi
 
+if [ -f ~/.bash_company ]; then
+. ~/.bash_company
+fi
+
 # git settings
 source /usr/local/etc/bash_completion.d/git-prompt.sh
 source /usr/local/etc/bash_completion.d/git-completion.bash
