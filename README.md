@@ -12,3 +12,7 @@ zshの導入(Mac with homebrew)
     $ sudo sh -c "echo '/usr/local/bin/zsh' >> /etc/shells"
     $ chsh -s /usr/local/bin/zsh
     $ source ~/.zprofile
+
+SpiderMonkeyの導入(Mac with homebrew)
+
+    $ brew install spidermonkey
