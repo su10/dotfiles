@@ -1,5 +1,6 @@
 alias eng='LANG=C LANGUAGE=C LC_ALL=C'
 alias grep='grep --color=auto --color=always'
+alias less='less -R'
 alias l.='ls .[a-zA-Z]* -G'
 alias la='ls -aG'
 alias ll='ls -laG'
